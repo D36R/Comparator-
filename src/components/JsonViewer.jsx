@@ -276,3 +276,5 @@ const JsonViewer = ({ jsonFiles }) => {
     </div>
   )
 }
+
+export default JsonViewer
