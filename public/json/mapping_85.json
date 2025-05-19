@@ -1,0 +1,62 @@
+[
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que la barre s'adapte à l'espace disponible."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "3",
+    "rank": 2,
+    "explanation": "La hauteur est également cruciale pour garantir une installation correcte et fonctionnelle."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "8908",
+    "rank": 3,
+    "explanation": "La longueur minimum permet de définir les limites d'utilisation du produit."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "34",
+    "rank": 4,
+    "explanation": "La couleur peut influencer l'esthétique de la salle de bain, bien que ce soit un critère moins fonctionnel."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "La matière principale peut affecter la durabilité et l'apparence du produit."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "7",
+    "rank": 6,
+    "explanation": "Le poids peut être un facteur à considérer pour l'installation, mais il est moins discriminant."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "537",
+    "rank": 7,
+    "explanation": "La garantie est standardisée et moins pertinente pour la comparaison entre produits."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "15498",
+    "rank": 8,
+    "explanation": "La distinction entre enfant et adulte n'est pas pertinente pour ce type de produit."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "535",
+    "rank": 9,
+    "explanation": "L'origine de fabrication est souvent peu influente sur le choix du produit."
+  },
+  {
+    "merch_categ_id": "85",
+    "attribute_id": "538",
+    "rank": 10,
+    "explanation": "La disponibilité des pièces détachées est généralement constante et peu discriminante."
+  }
+]

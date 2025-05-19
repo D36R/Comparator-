@@ -1,0 +1,86 @@
+[
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "51",
+    "rank": 1,
+    "explanation": "Le lieu de pose est crucial pour déterminer l'adéquation du produit avec l'environnement d'utilisation."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "571",
+    "rank": 2,
+    "explanation": "Le litrage est important pour évaluer la quantité de produit disponible pour le nettoyage."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "99",
+    "rank": 3,
+    "explanation": "Le matériau cible détermine l'efficacité du produit d'entretien sur différents types de surfaces."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "14948",
+    "rank": 4,
+    "explanation": "Le type de produit d'entretien influence les méthodes d'application et les résultats attendus."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "35",
+    "rank": 5,
+    "explanation": "La finition peut affecter l'apparence et la durabilité du produit après application."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "640",
+    "rank": 6,
+    "explanation": "Le type de conditionnement peut influencer la facilité d'utilisation et le stockage du produit."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "645",
+    "rank": 7,
+    "explanation": "La consistance peut affecter l'application et l'efficacité du produit."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "537",
+    "rank": 8,
+    "explanation": "La garantie peut rassurer l'utilisateur sur la durabilité et la qualité du produit."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "538",
+    "rank": 9,
+    "explanation": "La disponibilité des pièces détachées est un critère de longévité et de maintenance du produit."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "462",
+    "rank": 10,
+    "explanation": "La quantité par pack est souvent constante et peu discriminante entre les produits."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "14515",
+    "rank": 11,
+    "explanation": "La matière principale est souvent similaire entre les produits, ce qui la rend moins pertinente."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "7",
+    "rank": 12,
+    "explanation": "Le poids est généralement constant et n'influence pas significativement le choix."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "1049",
+    "rank": 13,
+    "explanation": "Le type de nettoyant est souvent redondant avec d'autres attributs et peu discriminant."
+  },
+  {
+    "merch_categ_id": "105",
+    "attribute_id": "535",
+    "rank": 14,
+    "explanation": "L'origine est souvent peu influente sur la décision d'achat pour ce type de produit."
+  }
+]

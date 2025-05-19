@@ -1,0 +1,32 @@
+[
+  {
+    "merch_categ_id": "103",
+    "attribute_id": "285",
+    "rank": 1,
+    "explanation": "Le temps de séchage est crucial pour déterminer l'efficacité et la rapidité d'utilisation de la colle."
+  },
+  {
+    "merch_categ_id": "103",
+    "attribute_id": "5218",
+    "rank": 2,
+    "explanation": "La qualité de l'air intérieur est importante pour évaluer l'impact sur la santé des utilisateurs."
+  },
+  {
+    "merch_categ_id": "103",
+    "attribute_id": "99",
+    "rank": 3,
+    "explanation": "Le matériau cible est essentiel pour garantir la compatibilité de la colle avec le support."
+  },
+  {
+    "merch_categ_id": "103",
+    "attribute_id": "640",
+    "rank": 4,
+    "explanation": "Le type de conditionnement peut influencer la facilité d'utilisation et le stockage du produit."
+  },
+  {
+    "merch_categ_id": "103",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "La matière principale peut affecter la durabilité et les performances de la colle."
+  }
+]

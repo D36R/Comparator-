@@ -1,0 +1,26 @@
+[
+  {
+    "merch_categ_id": "102",
+    "attribute_id": "645",
+    "rank": 1,
+    "explanation": "La consistance est essentielle pour déterminer l'application du produit."
+  },
+  {
+    "merch_categ_id": "102",
+    "attribute_id": "571",
+    "rank": 2,
+    "explanation": "Le litrage est crucial pour évaluer la quantité nécessaire pour un projet."
+  },
+  {
+    "merch_categ_id": "102",
+    "attribute_id": "14515",
+    "rank": 3,
+    "explanation": "La matière principale influence la durabilité et l'utilisation du produit."
+  },
+  {
+    "merch_categ_id": "102",
+    "attribute_id": "829",
+    "rank": 4,
+    "explanation": "L'utilisation en intérieur ou extérieur détermine le choix du produit selon l'environnement."
+  }
+]

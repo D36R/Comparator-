@@ -48,7 +48,7 @@ const JsonViewer = ({ jsonFiles }) => {
   useEffect(() => {
     const fetchCategoryTexts = async () => {
       try {
-        const response = await fetch('/categoryTexts.json')
+        const response = await fetch('/json/categoryTexts.json')
         if (!response.ok) {
           throw new Error('Failed to fetch category texts')
         }
@@ -276,5 +276,3 @@ const JsonViewer = ({ jsonFiles }) => {
     </div>
   )
 }
-
-export default JsonViewer
