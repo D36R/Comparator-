@@ -1,0 +1,32 @@
+[
+  {
+    "merch_categ_id": "76",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que le porte-savon s'adapte à l'espace disponible."
+  },
+  {
+    "merch_categ_id": "76",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec l'espace de rangement."
+  },
+  {
+    "merch_categ_id": "76",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur peut influencer l'accessibilité et l'esthétique du porte-savon."
+  },
+  {
+    "merch_categ_id": "76",
+    "attribute_id": "85",
+    "rank": 4,
+    "explanation": "Le mode de fixation détermine la facilité d'installation et la stabilité du produit."
+  },
+  {
+    "merch_categ_id": "76",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "La matière principale peut affecter la durabilité et l'esthétique du porte-savon."
+  }
+]

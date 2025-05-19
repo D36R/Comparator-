@@ -1,0 +1,32 @@
+[
+  {
+    "merch_categ_id": "5",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour la compatibilité avec le meuble bas."
+  },
+  {
+    "merch_categ_id": "5",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour s'assurer que le produit s'adapte correctement."
+  },
+  {
+    "merch_categ_id": "5",
+    "attribute_id": "36",
+    "rank": 3,
+    "explanation": "La forme influence l'esthétique et l'utilisation du plan de toilette."
+  },
+  {
+    "merch_categ_id": "5",
+    "attribute_id": "32",
+    "rank": 4,
+    "explanation": "La matière principale affecte la durabilité et l'entretien du produit."
+  },
+  {
+    "merch_categ_id": "5",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "Les matières utilisées peuvent influencer la qualité et l'apparence du produit."
+  }
+]

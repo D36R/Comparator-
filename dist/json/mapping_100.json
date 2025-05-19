@@ -1,0 +1,80 @@
+[
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que la mosaïque s'adapte à l'espace prévu."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec l'espace de pose."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur peut influencer l'esthétique et l'application de la mosaïque."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "32",
+    "rank": 4,
+    "explanation": "Les matières utilisées affectent la durabilité et l'apparence de la mosaïque."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "34",
+    "rank": 5,
+    "explanation": "La couleur est un critère visuel important pour le choix de la mosaïque."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "35",
+    "rank": 6,
+    "explanation": "La finition peut influencer l'aspect final et la texture de la mosaïque."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "7",
+    "rank": 7,
+    "explanation": "Le poids peut être un facteur à considérer pour le transport et l'installation."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "14515",
+    "rank": 8,
+    "explanation": "La matière principale est importante pour comprendre la qualité et l'usage de la mosaïque."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "462",
+    "rank": 9,
+    "explanation": "La quantité par pack est utile pour évaluer le coût et la couverture nécessaire."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "537",
+    "rank": 10,
+    "explanation": "La garantie peut rassurer l'acheteur sur la durabilité du produit."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "538",
+    "rank": 11,
+    "explanation": "La disponibilité des pièces détachées est un critère de longévité du produit."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "535",
+    "rank": 12,
+    "explanation": "L'origine peut influencer la perception de qualité et de durabilité."
+  },
+  {
+    "merch_categ_id": "100",
+    "attribute_id": "51",
+    "rank": 13,
+    "explanation": "Le lieu de pose est pertinent pour s'assurer de la compatibilité avec l'environnement."
+  }
+]

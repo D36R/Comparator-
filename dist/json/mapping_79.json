@@ -1,0 +1,32 @@
+[
+  {
+    "merch_categ_id": "79",
+    "attribute_id": "12429",
+    "rank": 1,
+    "explanation": "Le diamètre du miroir est essentiel pour déterminer la surface utile."
+  },
+  {
+    "merch_categ_id": "79",
+    "attribute_id": "85",
+    "rank": 2,
+    "explanation": "Le mode de fixation/pose influence la facilité d'installation et l'utilisation."
+  },
+  {
+    "merch_categ_id": "79",
+    "attribute_id": "36",
+    "rank": 3,
+    "explanation": "La forme du miroir impacte son esthétique et son encombrement."
+  },
+  {
+    "merch_categ_id": "79",
+    "attribute_id": "2",
+    "rank": 4,
+    "explanation": "La largeur du miroir est un critère important pour l'adéquation à l'espace."
+  },
+  {
+    "merch_categ_id": "79",
+    "attribute_id": "3",
+    "rank": 5,
+    "explanation": "La hauteur du miroir est également cruciale pour l'utilisation dans une salle de bain."
+  }
+]

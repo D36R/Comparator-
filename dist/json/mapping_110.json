@@ -1,0 +1,62 @@
+[
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que le produit s'adapte à l'espace prévu."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec d'autres éléments."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur peut influencer l'esthétique et la fonctionnalité du produit."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "3940",
+    "rank": 4,
+    "explanation": "L'épaisseur du verre peut affecter la durabilité et l'isolation."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "La matière principale détermine la qualité et l'utilisation du produit."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "51",
+    "rank": 6,
+    "explanation": "Le lieu de pose est important pour la compatibilité avec l'environnement d'installation."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "462",
+    "rank": 7,
+    "explanation": "La quantité par pack peut influencer le coût et l'approvisionnement."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "538",
+    "rank": 8,
+    "explanation": "La disponibilité des pièces détachées est un critère de longévité du produit."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "537",
+    "rank": 9,
+    "explanation": "La garantie est un indicateur de confiance dans la durabilité du produit."
+  },
+  {
+    "merch_categ_id": "110",
+    "attribute_id": "535",
+    "rank": 10,
+    "explanation": "L'origine peut influencer la perception de qualité mais est moins déterminante."
+  }
+]

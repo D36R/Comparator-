@@ -1,0 +1,38 @@
+[
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer de la compatibilité avec l'espace disponible."
+  },
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour l'adéquation avec le mobilier environnant."
+  },
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur influence l'ergonomie et l'utilisation de la tablette."
+  },
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "32",
+    "rank": 4,
+    "explanation": "Les matières utilisées peuvent affecter la durabilité et l'esthétique du produit."
+  },
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "34",
+    "rank": 5,
+    "explanation": "La couleur peut influencer le choix en fonction des préférences personnelles et du décor."
+  },
+  {
+    "merch_categ_id": "75",
+    "attribute_id": "96",
+    "rank": 6,
+    "explanation": "Le style est important pour s'assurer que le produit s'intègre dans l'environnement souhaité."
+  }
+]

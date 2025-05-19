@@ -1,0 +1,92 @@
+[
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "85",
+    "rank": 1,
+    "explanation": "Le mode de fixation/pose est crucial pour l'installation et l'utilisation du porte-serviette."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est un critère important pour s'assurer que le porte-serviette s'adapte à l'espace disponible."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "1",
+    "rank": 3,
+    "explanation": "La longueur est également déterminante pour la fonctionnalité du produit."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "3",
+    "rank": 4,
+    "explanation": "La hauteur influence l'accessibilité et l'ergonomie du porte-serviette."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "16328",
+    "rank": 5,
+    "explanation": "Le nombre de barres affecte la capacité de rangement et l'utilisation du produit."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "14515",
+    "rank": 6,
+    "explanation": "La matière principale peut influencer la durabilité et l'esthétique du porte-serviette."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "537",
+    "rank": 7,
+    "explanation": "La garantie est importante pour la confiance dans la qualité du produit."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "462",
+    "rank": 8,
+    "explanation": "La quantité par pack est utile pour les achats en gros ou pour les projets."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "538",
+    "rank": 9,
+    "explanation": "La disponibilité des pièces détachées est un critère de longévité du produit."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "535",
+    "rank": 10,
+    "explanation": "L'origine peut influencer la perception de qualité et de durabilité."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "34",
+    "rank": 11,
+    "explanation": "La couleur est un critère décoratif mais peut avoir un impact sur l'esthétique globale."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "7",
+    "rank": 12,
+    "explanation": "Le poids peut être un facteur à considérer pour l'installation mais est moins discriminant."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "11960",
+    "rank": 13,
+    "explanation": "Le nombre de bras est moins pertinent par rapport aux autres attributs."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "15498",
+    "rank": 14,
+    "explanation": "La distinction entre enfant et adulte n'est pas pertinente pour ce produit."
+  },
+  {
+    "merch_categ_id": "89",
+    "attribute_id": "8860",
+    "rank": 15,
+    "explanation": "Le type d'installation est moins discriminant par rapport aux autres critères."
+  }
+]

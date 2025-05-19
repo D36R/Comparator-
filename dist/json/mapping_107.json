@@ -1,0 +1,32 @@
+[
+  {
+    "merch_categ_id": "107",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer de la compatibilité avec l'espace disponible."
+  },
+  {
+    "merch_categ_id": "107",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour l'adéquation avec l'espace d'installation."
+  },
+  {
+    "merch_categ_id": "107",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur influence l'esthétique et l'intégration dans l'environnement."
+  },
+  {
+    "merch_categ_id": "107",
+    "attribute_id": "32",
+    "rank": 4,
+    "explanation": "Les matières utilisées impactent la durabilité et l'esthétique du produit."
+  },
+  {
+    "merch_categ_id": "107",
+    "attribute_id": "5218",
+    "rank": 5,
+    "explanation": "La qualité de l'air intérieur est un critère de santé et de confort important."
+  }
+]

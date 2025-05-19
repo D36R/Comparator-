@@ -1,0 +1,104 @@
+[
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer de la compatibilité avec l'espace disponible."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour l'adéquation avec le meuble et l'espace."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur influence l'esthétique et l'ergonomie du meuble."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "85",
+    "rank": 4,
+    "explanation": "Le mode de fixation/pose détermine la facilité d'installation et la stabilité du meuble."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "14956",
+    "rank": 5,
+    "explanation": "Le type de vasque impacte l'esthétique et l'entretien du meuble."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "161",
+    "rank": 6,
+    "explanation": "Le nombre de tiroirs est un critère important pour la capacité de rangement."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "179",
+    "rank": 7,
+    "explanation": "Le nombre de portes contribue à la fonctionnalité et à l'accès au rangement."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "141",
+    "rank": 8,
+    "explanation": "Le type de meuble permet de définir son usage et son intégration dans l'espace."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "535",
+    "rank": 9,
+    "explanation": "L'origine peut influencer la perception de qualité et de durabilité."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "34",
+    "rank": 10,
+    "explanation": "La couleur est un critère esthétique qui peut influencer le choix final."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "537",
+    "rank": 11,
+    "explanation": "La garantie est un critère de confiance pour l'acheteur, bien qu'elle soit souvent standard."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "538",
+    "rank": 12,
+    "explanation": "La disponibilité des pièces détachées est importante pour la durabilité, mais souvent constante."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "462",
+    "rank": 13,
+    "explanation": "La quantité par pack est généralement standardisée et peu discriminante."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "32",
+    "rank": 14,
+    "explanation": "Les matières sont souvent similaires et peu variées dans cette catégorie."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "7",
+    "rank": 15,
+    "explanation": "Le poids est souvent corrélé aux dimensions et peu discriminant."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "35",
+    "rank": 16,
+    "explanation": "La finition est un critère décoratif et peu impactant sur la fonctionnalité."
+  },
+  {
+    "merch_categ_id": "6",
+    "attribute_id": "92",
+    "rank": 17,
+    "explanation": "Le type d'ouverture est souvent spécifique et peu pertinent pour la majorité des utilisateurs."
+  }
+]

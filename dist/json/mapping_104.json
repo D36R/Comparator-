@@ -1,0 +1,20 @@
+[
+  {
+    "merch_categ_id": "104",
+    "attribute_id": "14515",
+    "rank": 1,
+    "explanation": "La matière principale influence la durabilité et l'esthétique du joint."
+  },
+  {
+    "merch_categ_id": "104",
+    "attribute_id": "7",
+    "rank": 2,
+    "explanation": "Le poids peut affecter la manipulation et l'application du joint."
+  },
+  {
+    "merch_categ_id": "104",
+    "attribute_id": "34",
+    "rank": 3,
+    "explanation": "La couleur peut être un critère de choix esthétique pour les utilisateurs."
+  }
+]

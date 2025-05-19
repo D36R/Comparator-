@@ -1,0 +1,80 @@
+[
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que le profilé s'adapte à l'espace prévu."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec d'autres éléments."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur peut influencer l'esthétique et la fonctionnalité du profilé."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "32",
+    "rank": 4,
+    "explanation": "Les matières utilisées peuvent affecter la durabilité et l'apparence du produit."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "14515",
+    "rank": 5,
+    "explanation": "La matière principale peut influencer la qualité et l'usage du profilé."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "35",
+    "rank": 6,
+    "explanation": "La finition peut avoir un impact sur l'esthétique et la résistance aux éléments."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "34",
+    "rank": 7,
+    "explanation": "La couleur peut être un facteur de choix pour l'harmonie visuelle."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "1582",
+    "rank": 8,
+    "explanation": "Le type de profilé peut déterminer son usage spécifique."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "7",
+    "rank": 9,
+    "explanation": "Le poids peut être un indicateur de robustesse, mais moins déterminant."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "462",
+    "rank": 10,
+    "explanation": "La quantité par pack est souvent constante et peu discriminante."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "538",
+    "rank": 11,
+    "explanation": "La disponibilité des pièces détachées est généralement standardisée."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "537",
+    "rank": 12,
+    "explanation": "La garantie est souvent identique pour de nombreux produits."
+  },
+  {
+    "merch_categ_id": "106",
+    "attribute_id": "535",
+    "rank": 13,
+    "explanation": "L'origine est peu influente sur le choix du produit."
+  }
+]
