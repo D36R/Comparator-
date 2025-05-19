@@ -44,7 +44,7 @@ const JsonViewer = ({ jsonFiles }) => {
     }
   }, [id, jsonFiles])
 
-  // Fetch category texts
+  // Fetch category texts only once on component mount
   useEffect(() => {
     const fetchCategoryTexts = async () => {
       try {
@@ -54,18 +54,15 @@ const JsonViewer = ({ jsonFiles }) => {
         }
         const data = await response.json()
         setCategoryTexts(data)
-        if (id && data[id] !== undefined) {
-          setCategoryText(data[id])
-        }
       } catch (err) {
         console.error('Error fetching category texts:', err)
       }
     }
 
     fetchCategoryTexts()
-  }, [id])
+  }, []) // Empty dependency array - run only once on mount
 
-  // Update current category text when ID changes
+  // Update current category text when ID changes or when categoryTexts is loaded
   useEffect(() => {
     if (id && categoryTexts[id] !== undefined) {
       setCategoryText(categoryTexts[id])
