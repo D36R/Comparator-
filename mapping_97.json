@@ -1,0 +1,38 @@
+[
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que le carrelage s'adapte à l'espace prévu."
+  },
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec les dimensions de la surface à couvrir."
+  },
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "77",
+    "rank": 3,
+    "explanation": "La surface d'action indique l'étendue maximale que le carrelage peut couvrir, influençant le choix du produit."
+  },
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "85",
+    "rank": 4,
+    "explanation": "Le mode de fixation/pose est important pour déterminer la méthode d'installation appropriée."
+  },
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "115",
+    "rank": 5,
+    "explanation": "La pièce destination aide à identifier l'usage prévu du carrelage, influençant le choix en fonction de l'environnement."
+  },
+  {
+    "merch_categ_id": "97",
+    "attribute_id": "15165",
+    "rank": 6,
+    "explanation": "Le type de carrelage peut influencer l'esthétique et la fonctionnalité, bien qu'il soit moins critique que les dimensions."
+  }
+]

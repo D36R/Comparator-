@@ -1,0 +1,68 @@
+[
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "9",
+    "rank": 1,
+    "explanation": "Le volume est essentiel pour déterminer la capacité de la poubelle."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est un critère important pour l'adaptation dans des espaces restreints."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur influence la capacité et l'esthétique de la poubelle."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "14515",
+    "rank": 4,
+    "explanation": "La matière principale affecte la durabilité et l'esthétique du produit."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "34",
+    "rank": 5,
+    "explanation": "La couleur peut influencer le choix en fonction de la décoration intérieure."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "535",
+    "rank": 6,
+    "explanation": "L'origine peut être un facteur de choix pour certains consommateurs."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "7",
+    "rank": 7,
+    "explanation": "Le poids peut être pertinent pour la manipulation et le transport."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "462",
+    "rank": 8,
+    "explanation": "La quantité par pack est moins discriminante car souvent constante."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "537",
+    "rank": 9,
+    "explanation": "La garantie est standardisée et peu différenciante."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "15498",
+    "rank": 10,
+    "explanation": "La mention enfant/adulte n'est pas pertinente pour ce type de produit."
+  },
+  {
+    "merch_categ_id": "94",
+    "attribute_id": "96",
+    "rank": 11,
+    "explanation": "Le style est un critère décoratif sans impact fonctionnel décisif."
+  }
+]

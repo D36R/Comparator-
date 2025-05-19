@@ -1,0 +1,44 @@
+[
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "12429",
+    "rank": 1,
+    "explanation": "Le diamètre du miroir est essentiel pour déterminer la surface utile."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "79",
+    "rank": 2,
+    "explanation": "La couleur de la lumière influence le confort lors du maquillage ou du rasage."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "36",
+    "rank": 3,
+    "explanation": "La forme du miroir impacte son esthétique et son encombrement."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "7",
+    "rank": 4,
+    "explanation": "Le poids peut affecter la facilité d'installation et la stabilité."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "1",
+    "rank": 5,
+    "explanation": "La longueur est un critère important pour l'adéquation avec l'espace disponible."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "2",
+    "rank": 6,
+    "explanation": "La largeur est également cruciale pour s'assurer que le miroir s'intègre bien dans l'espace."
+  },
+  {
+    "merch_categ_id": "80",
+    "attribute_id": "3",
+    "rank": 7,
+    "explanation": "La hauteur est un facteur déterminant pour l'utilisation ergonomique du miroir."
+  }
+]

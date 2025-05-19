@@ -1,0 +1,38 @@
+[
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "1",
+    "rank": 1,
+    "explanation": "La longueur est essentielle pour s'assurer que l'anneau de douche s'adapte à l'espace disponible."
+  },
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "2",
+    "rank": 2,
+    "explanation": "La largeur est également cruciale pour la compatibilité avec les installations existantes."
+  },
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "3",
+    "rank": 3,
+    "explanation": "La hauteur peut influencer l'esthétique et l'utilisation de l'anneau de douche."
+  },
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "14515",
+    "rank": 4,
+    "explanation": "La matière principale affecte la durabilité et l'apparence de l'anneau."
+  },
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "32",
+    "rank": 5,
+    "explanation": "Les matières utilisées peuvent influencer la qualité et l'esthétique du produit."
+  },
+  {
+    "merch_categ_id": "86",
+    "attribute_id": "7",
+    "rank": 6,
+    "explanation": "Le poids peut être un facteur de choix pour la facilité d'installation et d'utilisation."
+  }
+]
